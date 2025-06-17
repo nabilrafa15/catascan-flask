@@ -1,0 +1,10 @@
+venv
+Include
+Lib
+scripts
+pyenv.cfg
+.env
+static
+app_v1.py
+best_model_2
+best_model_3
